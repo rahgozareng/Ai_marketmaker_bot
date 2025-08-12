@@ -116,8 +116,5 @@ Debugging tip: run in --mode dry to print actions without sending orders.
 ⚖ Disclaimer
 This repository is for educational and experimental purposes only. Trading cryptocurrencies carries risk. The author is not responsible for financial loss or damages arising from the use of this software.
 
-📬 Contact / Contribute
-If you want help integrating another exchange, improving the env, or adding safety checks — open an issue or contact me at your.email@example.com.
-
 License
 MIT License — feel free to use, adapt, and improve.
